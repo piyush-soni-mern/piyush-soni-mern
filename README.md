@@ -12,6 +12,9 @@ My name is Piyush Soni <br><br>🔭 I’m currently working on MERN stack<br>�
 ![](https://github-readme-streak-stats.herokuapp.com/?user=piyush-soni-mern&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-soni-mern&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![Piyush Soni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piyush-soni-mern&theme=react-dark)](https://github.com/VardaPanchal005/github-readme-activity-graph)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=piyush-soni-mern&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
